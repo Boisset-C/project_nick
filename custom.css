@@ -34,13 +34,8 @@ a:hover {
 /* CTA SECTION */
 
 #cta-bg {
-  background: rgb(63, 94, 251);
-  background: radial-gradient(
-    circle,
-    rgba(63, 94, 251, 1) 0%,
-    rgba(252, 70, 107, 1) 100%
-  );
-  height: 60vh;
+  background: beige;
+  height: 70vh;
 }
 
 /*Chef Nick */
