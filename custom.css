@@ -1,0 +1,50 @@
+/* GLOBAL STYLING */
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* HERO SECTION */
+
+#hero-image {
+  background-image: url("assets/hero-image.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 90vh;
+}
+
+.custom-button {
+  border-radius: 34px;
+}
+
+/* DIVIDER SECTION */
+
+.height {
+  width: 100%;
+  height: 100%;
+}
+
+/* CTA SECTION */
+
+#cta-bg {
+  background: rgb(63, 94, 251);
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+  height: 60vh;
+}
+
+/*Chef Nick */
+
+#nick {
+  height: 50rem;
+}
