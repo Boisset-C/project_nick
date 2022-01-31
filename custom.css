@@ -12,16 +12,16 @@ a:hover {
 }
 
 /* HERO SECTION */
-
 #hero-image {
   background-image: url("assets/hero-image.jpg");
   background-size: cover;
   background-position: center center;
+  filter: brightness(90%);
   height: 90vh;
 }
 
 .custom-button {
-  border-radius: 34px;
+  color: #ffffff;
 }
 
 /* DIVIDER SECTION */
@@ -41,4 +41,9 @@ a:hover {
 
 #nick {
   height: 40rem;
+}
+
+.calendly-inline-widget {
+  height: 110vh;
+  width: 100%;
 }
